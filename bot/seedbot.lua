@@ -224,6 +224,8 @@ function create_config( )
     "stats",
     "anti_spam",
     "owners",
+    "set",
+    "spm",
     "gps",
     "left",
     "arabic_lock",
