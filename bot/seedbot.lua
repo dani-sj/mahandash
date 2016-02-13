@@ -213,6 +213,8 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
+    "block",
+    "boobs",
     "plugins",
     "google",
     "stats",
