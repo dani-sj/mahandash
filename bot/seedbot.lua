@@ -214,6 +214,8 @@ function create_config( )
     "inpm",
     "antilink",
     "filter",
+    "linkpv",
+    "lock_join",
     "banhammer",
     "block",
     "boobs",
