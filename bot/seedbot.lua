@@ -212,6 +212,8 @@ function create_config( )
     "inrealm",
     "ingroup",
     "inpm",
+    "antilink",
+    "filter",
     "banhammer",
     "block",
     "boobs",
